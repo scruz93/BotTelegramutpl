@@ -4,8 +4,8 @@ import requests
 
 #Conexion con nuestro BOT
 
-TOKEN = ''
-API_KEY = ''
+TOKEN = '7571508776:AAEqcXCKlTFPjKjshFmiU7E0xhpqEHXPnfg'
+
 
 
 
